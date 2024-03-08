@@ -1,0 +1,12 @@
+The purpose of this analysis was to see if we could use machine learning models to accurately predict credit risk.
+
+Accuracy Score: 99%
+Precision Score (0, 1): 100%, 84%
+Recall Score (0, 1): 99%, 91%
+
+The machine learning model demonstrates impressive performance in predicting credit risk, achieving an accuracy of 99%. 
+Even the high-risk loans had a lower f1-score of 0.88 compared to the 1.00 score that the healthy loans received; both are incredibly successful at predicting credit risk.
+
+With the model's ability to maintain a high balance of precision and recall scores, it is clearly a high-performing, accurate tool in analyzing credit risk. 
+Deploying this model would enable the company to perform this analysis quickly and effectively.
+
